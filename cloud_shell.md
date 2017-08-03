@@ -10,5 +10,6 @@
 
 To get started run:
 
-    npm run build
+    npm install
+    npm build
 
