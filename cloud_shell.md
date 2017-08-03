@@ -11,5 +11,5 @@
 To get started run:
 
     npm install
-    npm build
+    npm run build
 
